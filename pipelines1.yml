@@ -1,9 +1,0 @@
-trigger:
-- main
-
-pool:
-  name: default
-
-steps:
-- script: echo Hello, World!
-  displayName: 'Run a one-line script'
